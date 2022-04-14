@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Any Open Source projects**
 
-- 👨‍💻 All of my projects are available at [https://mohamed-salem-portfolio.netlify.app/](https://mohamed-salem-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://main.dys13l3ps1uwn.amplifyapp.com/)
 
 - 📫 How to reach me **mohamed_salem331@hotmail.com**
 
